@@ -24,10 +24,6 @@ C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Enquete.TagHelpers.input.cache
 C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Enquete.TagHelpers.output.cache
 C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Enquete.RazorCoreGenerate.cache
 C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Enquete.RazorTargetAssemblyInfo.cache
@@ -38,3 +34,4 @@ C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\ref\Enquete.dll
 C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Enquete.pdb
 C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Enquete.genruntimeconfig.cache
 C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Enquete.csproj.CopyComplete
+C:\Users\rsstr\WebServer\Enquete\obj\Debug\net5.0\Razor\Views\Home\Responder.cshtml.g.cs

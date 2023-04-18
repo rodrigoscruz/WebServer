@@ -17,10 +17,17 @@ namespace Enquete.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        [HttpGet]
+        public IActionResult Responder()
         {
             return View();
         }
 
+        [HttpPost]
+        public IActionResult Responder(Resposta resposta)
+        {
+            Repositorio.AdicionarResposta(resposta);
+            return Content("Resposta recebida com sucesso.");
+        }
     }
 }

@@ -17631,33 +17631,18 @@
   "RootNamespace": "Enquete",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\rsstr\\WebServer\\Enquete\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\rsstr\\WebServer\\Enquete\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\rsstr\\WebServer\\Enquete\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\rsstr\\WebServer\\Enquete\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\rsstr\\WebServer\\Enquete\\Views\\Home\\Responder.cshtml",
+      "TargetPath": "Views\\Home\\Responder.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\rsstr\\WebServer\\Enquete\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\rsstr\\WebServer\\Enquete\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {

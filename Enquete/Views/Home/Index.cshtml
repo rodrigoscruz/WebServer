@@ -14,15 +14,13 @@
 </head>
 <body>
 
-    <h1>This is a Heading</h1>
-    @if(Model.HasValue)
-    {
-        <p>Parâmetro igual a @Model.Value.</p>
-    }
-    else
-    {
-        <p>Nenhum parâmetro foi passado.</p>
-    }
+    <h1>Enquete</h1>
+    
+    <h2>Você é a favor, ou contra?</h2>
+
+    <p>
+        <a href="/Home/Responder">Responder</a>
+    </p>
 
 </body>
 </html>
